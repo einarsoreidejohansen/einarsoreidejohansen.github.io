@@ -3,14 +3,18 @@ body{
 }
 
 
-.introduction {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-
-    border: 1px solid #3a67cb;
-
-    background-color: #3e4451;
+.custom-cards {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    padding: 1rem;
+    
+    border-color: #3a67cb;
     color: azure;
 
     text-align: center;
+}
+
+.list-group{
+    border-top: initial !important;
 }

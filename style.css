@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, rgb(12, 5, 9), rgb(32, 17, 145));
+}
+
+
+.introduction {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    border: 1px solid #3a67cb;
+
+    background-color: #3e4451;
+    color: azure;
+
+    text-align: center;
+}
